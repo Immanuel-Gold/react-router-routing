@@ -12,6 +12,8 @@ const Layout = () => {
         <ul className="flex items-center gap-x-[26px] [&>a]:text-[1.3rem] [&>a]:font-bold [&>a]:text-[#f1f1f1] pr-[8px]">
           <NavLink to="/about">About</NavLink>
           <NavLink to="/more">More</NavLink>
+          <NavLink to="/blogs/1">Blogs 1</NavLink>
+          <NavLink to="/help">Help</NavLink>
         </ul>
       </nav>
 
